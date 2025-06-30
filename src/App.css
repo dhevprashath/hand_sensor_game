@@ -1,0 +1,19 @@
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.relative {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #e5e7eb;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
